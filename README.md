@@ -1,16 +1,15 @@
-# Hi, I'm Abdul Hannan 👋
+# 💫 About Me:
+## About Me<br><br>Computer Science student and Robotics Developer focused on Robotics, Embedded Systems, IoT, and AI-driven automation systems.<br><br>Currently serving as the Director of the Robotics Society at Iqra University, leading technical initiatives, workshops, and innovation-focused projects related to robotics and embedded technologies.<br><br>My work primarily involves:<br><br>* Embedded Systems Development<br>* ESP32 & Arduino Projects<br>* IoT Automation Systems<br>* Robotics Prototyping<br>* Intelligent Security Systems<br>* AI-Integrated Hardware Solutions<br><br>Currently exploring advanced automation, neurotechnology concepts, and intelligent embedded architectures.<br><br>---<br><br>## Technologies & Tools<br><br>ESP32 • Arduino • C • Java • IoT • Embedded Systems • Sensors • Automation • Git • GitHub<br><br>---<br><br>## Current Focus<br><br>* Building real-world embedded and automation systems<br>* Developing robotics-based solutions<br>* Exploring AI + Hardware integration<br>* Expanding knowledge in Neurotechnology and Intelligent Systems<br>
 
-## 🚀 About Me
-Frontend Developer & Student
 
-## 💻 Skills
-- HTML
-- CSS
-- JavaScript
-- GitHub
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1500208969459699773) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdul_hannan1.4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdul-hannan-7a4531295) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulhannanof1134@gmail.com) 
 
-## 🌐 Portfolio
-https://github.com/Abdulhannan557
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abdulhannan557&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=abdulhannan557&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abdulhannan557&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 📫 Contact
-abdulhannanof1134@gmail.com
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
